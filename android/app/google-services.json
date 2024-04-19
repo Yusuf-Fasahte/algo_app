@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679455979287",
+    "project_id": "parking-ticket-auth",
+    "storage_bucket": "parking-ticket-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679455979287:android:a386f153b78d75cbdce952",
+        "android_client_info": {
+          "package_name": "com.example.parking_ticket_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQb4oaQVoltzJKG67ZKLKT4pkMa152cSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
